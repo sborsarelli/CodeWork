@@ -1,7 +1,7 @@
 ((*- extends 'article.tplx' -*))
 
 ((* block author *))
-\author{Stefano Borsarelli}
+\author{Supervised by : Prof. Fontanelli \\ \\ author: Stefano Borsarelli}
 ((* endblock author *))
 
 ((* block title *))
